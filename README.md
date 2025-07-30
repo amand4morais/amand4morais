@@ -20,4 +20,4 @@
 
 ##
 
-![Snake animation](https://amand4morais.github.io/amand4morais/github-contribution-grid-snake.svg)
+![Snake animation](https://amand4morais.github.io/amand4morais/blob/output/github-contribution-grid-snake.svg)
