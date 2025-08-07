@@ -1,5 +1,6 @@
 <div align="center">
   <img height="150" src="https://cdn.discordapp.com/attachments/1403087022025085019/1403087292276674620/Design_sem_nome.gif?ex=6896465e&is=6894f4de&hm=eea001028df6374613358e8f572de57a89c65622676d87faec76131ea84e1ab8&"  />
+
 </div>
 
 ###
@@ -15,9 +16,7 @@
 
 ###
 
-###
-
-<h1 align="center">Olá! Eu sou a Amanda 👋</h1>
+<h1 align="center">Hello World! 👋</h1>
 
 ###
 
@@ -25,13 +24,13 @@
 
 ###
 
-<p align="left">Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na UTFPR, apaixonada por tecnologia e sempre em busca de aprender coisas novas. <br>Estou utilizando este espaço para compartilhar meus projetos, estudos e aprendizados ao longo da minha jornada na programação. <br><br>Sinta-se à vontade para explorar meus repositórios e acompanhar meu desenvolvimento! ✨</p>
+<p align="left">Olá! Eu sou a Amanda. <br>Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na UTFPR, apaixonada por tecnologia e sempre em busca de aprender coisas novas. <br>Estou utilizando este espaço para compartilhar meus projetos, estudos e aprendizados ao longo da minha jornada na programação. <br><br>Sinta-se à vontade para explorar meus repositórios e acompanhar meu desenvolvimento! ✨</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amand4morais&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amand4morais&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=amand4morais&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amand4morais&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <h3 align="left">👾 I code with</h3>
@@ -52,9 +51,9 @@
 ##
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amand4morais/amand4morais/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amand4morais/amand4morais/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amand4morais/amand4morais/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
