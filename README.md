@@ -1,21 +1,3 @@
-<div align="center">
-  <img height="150" src="https://cdn.discordapp.com/attachments/1403087022025085019/1403087292276674620/Design_sem_nome.gif?ex=6896465e&is=6894f4de&hm=eea001028df6374613358e8f572de57a89c65622676d87faec76131ea84e1ab8&"  />
-
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/amanda-morais-ribeiro-39a0b628a" target="_blank"> 
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="mailto:amoraisribeiro06@gmail.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
 <h1 align="center">Hello World! 👋</h1>
 
 ###
