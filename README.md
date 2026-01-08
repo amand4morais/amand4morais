@@ -53,7 +53,6 @@ Tecnologias utilizadas em projetos acadêmicos e pessoais:
 <ul>
   <li>JavaScript</li>
   <li>Desenvolvimento Full-stack</li>
-  <li>Manipulação do DOM</li>
   <li>Boas práticas de programação</li>
   <li>Versionamento com Git e GitHub</li>
 </ul>
