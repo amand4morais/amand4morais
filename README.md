@@ -1,10 +1,10 @@
-<h1 align="center">Amanda Morais Ribeiro</h1>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=times+new+roman&size=35&pause=1000&color=C000FF&center=true&vCenter=true&width=435&lines=Amanda+Morais+Ribeiro" alt="Typing SVG" /></a></p>
 
 <p align="center">
 Estudante de Análise e Desenvolvimento de Sistemas • Full-stack em formação
 </p>
 
----
+##
 
 <h3 align="left">Sobre mim</h3>
 
@@ -19,16 +19,17 @@ Utilizo este espaço para compartilhar meus <strong>projetos acadêmicos</strong
 acompanhando minha evolução na área de tecnologia.
 </p>
 
----
+##
 
 <h3 align="left">GitHub Stats</h3>
 
 <div align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=amand4morais&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amand4morais&layout=compact&langs_count=5&theme=radical" height="150" />
 </div>
 
----
+##
 
 <h3 align="left">Tecnologias</h3>
 
@@ -44,20 +45,30 @@ Tecnologias utilizadas em projetos acadêmicos e pessoais:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40"/>
+  
+  
 </div>
 
----
+##
 
 <h3 align="left">Em aprendizado</h3>
 
 <ul>
   <li>JavaScript</li>
   <li>Desenvolvimento Full-stack</li>
-  <li>Boas práticas de programação</li>
-  <li>Versionamento com Git e GitHub</li>
+  <li>Python</li>
+  <li>Metodologias Ágeis - Scrum</li>
 </ul>
 
----
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amand4morais/amand4morais/output/pacman-contribution-graph-dark.svg">
